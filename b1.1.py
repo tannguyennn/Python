@@ -27,3 +27,5 @@ for i in range(2,n+1):
     if laSNT(i):
         print("%3d" % i , end=" ")
 
+
+
