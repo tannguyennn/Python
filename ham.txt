@@ -1,0 +1,12 @@
+hàm lamdba
+hàm  không tên
+chỉ có 1 dòng lệnh 
+cú pháp: lamdba argments: expression
+
+hàm map()
+lời gọi hàm lên 1 danh sách đối số
+cú pháp: map(fucstion itaration)
+
+hàm filter()
+lọc các phần tử trong danh sách thỏa diều kiện dc định nghĩa bởi hàm
+cú pháp: filter(funcston, iteration)
