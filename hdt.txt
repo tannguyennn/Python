@@ -1,2 +1,11 @@
 Hướng đối tượng trong python
 
+-Dựa trên cách tiếp cận HDT: một ứng dụng là tập hợp các đối tượng hoạt động tương tác
+-Hai khía cạch cơ bản của CT HDT: 
+    -Đối tượng(object): là thực thể (instance) dc tạo ra từ lớp đối tượng
+    -Lớp (class): là bản thiết kế (blueprint) mô tả các đối tượng giống nhau
+-4 đặc trưng cơ bản của LT HDT: 
+    -Trừu tượng hóa (abstraction)
+    -Bao đóng (encapsuletion)
+    -Thừa kế (inheritance)
+    -Đa hình (polymorphism)
