@@ -4,10 +4,12 @@ class Student:
         self.id=id
         self.name=name
         self.grade=grade
-
+    #in thông tin
+    def print_info(self):
+        print("ID: "+self.id)
+        print("Name: "+self.name)
+        print("Grade: "+str(self.grade))
 
 sv1 = Student("63132204","Nguyễn Tấn Lập",8.9)
 
-print(sv1.id)
-print(sv1.name)
-print(sv1.grade)
+sv1.print_info()
