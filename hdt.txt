@@ -9,3 +9,8 @@ Hướng đối tượng trong python
     -Bao đóng (encapsuletion)
     -Thừa kế (inheritance)
     -Đa hình (polymorphism)
+
+- bao đóng (encapsuletion)
+    python che dấu truy suất trực tiếp đến thành viên của lớp bằng cách thêm 2 ký tự __ trc và sa tên thành viên
+-build-in menbers
+-Khai báo lớp bên trong lớp

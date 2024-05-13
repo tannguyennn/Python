@@ -11,6 +11,8 @@ import math
 class Point2D:
 
     def __init__(self,x=0,y=0):
+        if(x>0):
+            print("sai x")
         self.x=x
         self.y=y
     #Phương thức tính khoảng cách giửa hai điểm
